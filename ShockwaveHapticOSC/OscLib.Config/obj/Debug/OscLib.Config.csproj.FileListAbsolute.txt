@@ -1,0 +1,8 @@
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\Output\Debug\OscLib.Config.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\Output\Debug\OscLib.Config.pdb
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.Config\obj\Debug\OscLib.Config.csproj.AssemblyReference.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.Config\obj\Debug\OscLib.Config.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.Config\obj\Debug\OscLib.Config.csproj.CoreCompileInputs.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.Config\obj\Debug\OscLib.Config.csproj.CopyComplete
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.Config\obj\Debug\OscLib.Config.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.Config\obj\Debug\OscLib.Config.pdb

@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\ShockwaveHapticOSCModule\\ShockwaveHapticOSCModule.csproj": {}
+  },
+  "projects": {
+    "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\ShockwaveHapticOSCModule\\ShockwaveHapticOSCModule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\ShockwaveHapticOSCModule\\ShockwaveHapticOSCModule.csproj",
+        "projectName": "ShockwaveHapticOSCModule",
+        "projectPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\ShockwaveHapticOSCModule\\ShockwaveHapticOSCModule.csproj",
+        "packagesPath": "C:\\Users\\Josh Bowie\\.nuget\\packages\\",
+        "outputPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\ShockwaveHapticOSCModule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Josh Bowie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.22621": {
+            "targetAlias": "net6.0-windows10.0.22621.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22621": {
+          "targetAlias": "net6.0-windows10.0.22621.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Samboy063.Tomlet": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "VolcanicArts.VRCOSC.SDK": {
+              "target": "Package",
+              "version": "[2023.1007.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.31, 10.0.22621.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

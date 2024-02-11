@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLskIB3uYpTtyWOxusmPEPPgrKmWDBDG/yb06G/qaZ6X+fpVAzwGgHv2Cm6ZMtFReoxJKxG2BoPZWzv9p+17dg==",
+  "success": true,
+  "projectFilePath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.Config\\OscLib.Config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh Bowie\\.nuget\\packages\\samboy063.tomlet\\3.1.3\\samboy063.tomlet.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

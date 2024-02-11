@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.VRChat\\OscLib.VRChat.csproj": {}
+  },
+  "projects": {
+    "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.VRChat\\OscLib.VRChat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.VRChat\\OscLib.VRChat.csproj",
+        "projectName": "OscLib.VRChat",
+        "projectPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.VRChat\\OscLib.VRChat.csproj",
+        "packagesPath": "C:\\Users\\Josh Bowie\\.nuget\\packages\\",
+        "outputPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.VRChat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Josh Bowie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

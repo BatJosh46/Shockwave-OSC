@@ -1,0 +1,14 @@
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\bin\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.deps.json
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\bin\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\bin\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.pdb
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\bin\Debug\net6.0-windows10.0.22621.0\ShockwaveManager.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.csproj.AssemblyReference.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.AssemblyInfoInputs.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.AssemblyInfo.cs
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.csproj.CoreCompileInputs.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.csproj.CopyComplete
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\refint\ShockwaveHapticOSCModule.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ShockwaveHapticOSCModule.pdb
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\ShockwaveHapticOSCModule\obj\Debug\net6.0-windows10.0.22621.0\ref\ShockwaveHapticOSCModule.dll

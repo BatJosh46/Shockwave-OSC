@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8/NgGIfa8efxFQZ2X1b8z6c/Tu4v6cjnECmk/jx4JisZc1sVKKfVh/UlT8LIAw/NPfrUIbi/MsxspoFUtNj6g==",
+  "success": true,
+  "projectFilePath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib\\OscLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh Bowie\\.nuget\\packages\\rug.osc\\1.2.5\\rug.osc.1.2.5.nupkg.sha512",
+    "C:\\Users\\Josh Bowie\\.nuget\\packages\\samboy063.tomlet\\3.1.3\\samboy063.tomlet.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

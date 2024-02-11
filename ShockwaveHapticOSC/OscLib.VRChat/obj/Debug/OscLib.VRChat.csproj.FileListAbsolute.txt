@@ -1,0 +1,8 @@
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\Output\Debug\OscLib.VRChat.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\Output\Debug\OscLib.VRChat.pdb
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.VRChat\obj\Debug\OscLib.VRChat.csproj.AssemblyReference.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.VRChat\obj\Debug\OscLib.VRChat.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.VRChat\obj\Debug\OscLib.VRChat.csproj.CoreCompileInputs.cache
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.VRChat\obj\Debug\OscLib.VRChat.csproj.CopyComplete
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.VRChat\obj\Debug\OscLib.VRChat.dll
+G:\Github\Shockwave-OSC\ShockwaveHapticOSC\OscLib.VRChat\obj\Debug\OscLib.VRChat.pdb

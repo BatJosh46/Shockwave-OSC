@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Rug.Osc/1.2.5": {
+        "type": "package",
+        "compile": {
+          "lib/Rug.Osc.dll": {}
+        },
+        "runtime": {
+          "lib/Rug.Osc.dll": {}
+        }
+      },
+      "Samboy063.Tomlet/3.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Tomlet.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Tomlet.dll": {}
+        }
+      },
+      "OscLib.Config/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Samboy063.Tomlet": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/OscLib.Config.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OscLib.Config.dll": {}
+        }
+      },
+      "OscLib.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/OscLib.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OscLib.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rug.Osc/1.2.5": {
+      "sha512": "nbujIPTk+QO90qv+U9E5reGFEBDpu8c4I65dkVxR4/xBL+WXUzUjvfBm5mEmtRRqFeoqfK7VLje+FEdz/FmoTg==",
+      "type": "package",
+      "path": "rug.osc/1.2.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Rug.Osc.XML",
+        "lib/Rug.Osc.dll",
+        "rug.osc.1.2.5.nupkg.sha512",
+        "rug.osc.nuspec"
+      ]
+    },
+    "Samboy063.Tomlet/3.1.3": {
+      "sha512": "OqKHbxmRKu5TmBwRiwyPr9US5mVYki9lKqljV5Sv/h9RAr5BA9Yki7ayOvk2qv594v6Pz8v3e5tuo5BjPOCNsg==",
+      "type": "package",
+      "path": "samboy063.tomlet/3.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Tomlet.dll",
+        "lib/netstandard2.0/Tomlet.dll",
+        "samboy063.tomlet.3.1.3.nupkg.sha512",
+        "samboy063.tomlet.nuspec"
+      ]
+    },
+    "OscLib.Config/1.0.0": {
+      "type": "project",
+      "path": "../OscLib.Config/OscLib.Config.csproj",
+      "msbuildProject": "../OscLib.Config/OscLib.Config.csproj"
+    },
+    "OscLib.Utils/1.0.0": {
+      "type": "project",
+      "path": "../OscLib.Utils/OscLib.Utils.csproj",
+      "msbuildProject": "../OscLib.Utils/OscLib.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "OscLib.Config >= 1.0.0",
+      "OscLib.Utils >= 1.0.0",
+      "Rug.Osc >= 1.2.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Josh Bowie\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib\\OscLib.csproj",
+      "projectName": "OscLib",
+      "projectPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib\\OscLib.csproj",
+      "packagesPath": "C:\\Users\\Josh Bowie\\.nuget\\packages\\",
+      "outputPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Josh Bowie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.Config\\OscLib.Config.csproj": {
+              "projectPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.Config\\OscLib.Config.csproj"
+            },
+            "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.Utils\\OscLib.Utils.csproj": {
+              "projectPath": "G:\\Github\\Shockwave-OSC\\ShockwaveHapticOSC\\OscLib.Utils\\OscLib.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Rug.Osc": {
+            "target": "Package",
+            "version": "[1.2.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
